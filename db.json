@@ -1,0 +1,31 @@
+{
+
+  "user_profile": [{
+    "id_user": "1",
+    "name": "محمد حسن اکبریان",
+    "avatar_url": "url",
+    "id_user_group": "1",
+    "user_group": "کاربر عادی",
+    "mobile": "09364842157",
+    "credit_number": "5022291064002445",
+    "id_city": "72",
+    "city": "تهران"
+  }],
+  "favorite_category": [{
+      "id_category": "1",
+      "category_name": "بیلیارد"
+    },
+    {
+      "id_category": "2",
+      "category_name": "استخر"
+    },
+    {
+      "id_category": "3",
+      "category_name": "بسکتبال"
+    }
+
+  ]
+
+
+
+}
